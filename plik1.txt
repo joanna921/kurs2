@@ -1,2 +1,3 @@
 Mój nowy plik zadanie 4 podpunkt 1
 Tej zmiany nie będzie
+Testujemy komendę revert. Ten tekst zniknie ale nie na zawsze 
